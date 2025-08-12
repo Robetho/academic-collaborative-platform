@@ -3,8 +3,8 @@
 
 
 
-$dev_data = array('id'=>'-1','firstname'=>'Developer','lastname'=>'','username'=>'KAMPALA INTERNATIONAL UNIVERSITY IN TANZANIA','password'=>'5da283a2d990e8d8512cf967df5bc0d0','last_login'=>'','date_updated'=>'','date_added'=>'');
-if(!defined('base_url')) define('base_url','http://localhost/academic-collaboration-platform-KIUT/');
+$dev_data = array('id'=>'-1','firstname'=>'Developer','lastname'=>'','username'=>'UNIVERSITY IN TANZANIA','password'=>'5da283a2d990e8d8512cf967df5bc0d0','last_login'=>'','date_updated'=>'','date_added'=>'');
+if(!defined('base_url')) define('base_url','http://localhost/academic-collaborative-platform/');
 if(!defined('base_app')) define('base_app', str_replace('\\','/',__DIR__).'/' );
 // if(!defined('dev_data')) define('dev_data',$dev_data);
 if(!defined('DB_SERVER')) define('DB_SERVER',"localhost");
